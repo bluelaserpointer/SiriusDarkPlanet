@@ -1,0 +1,5 @@
+#STARTLINE
+旁白：你瞄准眼前的畜生，果断扣动了扳机。
+#ATTACK
+
+#ENDLINE

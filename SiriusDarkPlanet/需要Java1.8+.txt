@@ -1,0 +1,25 @@
+感谢下载 Sirius Dark Planet！
+
+启动游戏需要安装1.8以上版本的Java
+
+下载地址：https://www.oracle.com/java/technologies/javase-jre8-downloads.html
+
+本游戏是横版射击游戏，控制飞船击败所有敌方飞船
+
+移动：↑↓←→箭头键
+刹车：空格键
+开火：Z键
+游戏暂停：Esc键
+
+不同于通常的游戏，本游戏中玩家操控飞船的火力很低，但血量与速度很高
+
+注意观察敌我NPC船的举动，可以找出扭转局面的突破口！
+
+详细说明见游戏内向导
+
+
+作者：bluelaserpointer
+
+2020 三教杯 参赛作品
+
+2020/11/28

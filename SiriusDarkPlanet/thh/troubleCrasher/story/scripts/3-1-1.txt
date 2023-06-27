@@ -1,0 +1,7 @@
+#STARTLINE
+旁白：你敏锐的感知到，似乎在不远处山丘下的铁匠尸体旁边，有着一只被吸引而来的狼。
+#OPTIONS
+#OPTION1
+#OPTION2
+#ENDOPTIONS
+#ENDLINE

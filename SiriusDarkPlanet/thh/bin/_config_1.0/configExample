@@ -1,0 +1,22 @@
+#author = bluelaserpointer
+#date = 2018.09.08
+#ConfigVersion = 1.0
+#fixedName = THH_DWC
+
+[lightball]
+description = 妖精たちが使っている基本弾幕です。
+description = 攻撃力はあまりありません。
+bullet = default
+bulletATK+ = 20
+bulletATK* = 1.0
+bulletSPD+ = 20
+bulletSPD* = 1.0
+magazineSize = 6
+reloadTime = 10
+fireDelay = 1
+firePointXY = SELF|x!-15,0,+15|y!-15,0,+15|r!45.0
+firePointAD = NONE
+fireAngle = REVERSE_SELF|-5.0,-2.5,0,+2.5,+5.0
+fireAberration = 0.0
+
+iconImg = NONE

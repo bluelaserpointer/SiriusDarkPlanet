@@ -1,0 +1,33 @@
+alpha 1.3.1
++bomber图片改善
+
+alpha 1.3.0
++加入背景音乐
+
+来源：https://pocket-se.info/archives/category/bgm/battle/
+
+alpha 1.2.0
++加入关卡选择页面，最后一关有BOSS
+
++修复结算页面出现后仍然能丢失分数的bug
+
++更改标题页面外貌
+
+alpha 1.1.1
++修复结算页面出现后仍然能获取分数的bug
+
+alpha 1.1.0
++击毁时出现成就提示
+EngineCrush：代表使敌人引擎故障（需要体力<60%）
+Kill：代表普通击毁
+ShotDown：代表敌人坠机击毁（需要速度>10px/s）
+
+各成就分别（10pt，50pt，150pt）会加到最终分数，不受耗时惩罚
+
++游戏内显示操作方法
+
+alpha 1.0.1
+修复了玩家飞船被毁时不出现结算界面的bug
+
+alpha 1.0.0
+第一个版本

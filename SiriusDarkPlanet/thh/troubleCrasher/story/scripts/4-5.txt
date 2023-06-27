@@ -1,0 +1,4 @@
+#STARTLINE
+旁白：狼开始行动了。
+#ATK#D#0#AC#12#敌人
+#ENDLINE

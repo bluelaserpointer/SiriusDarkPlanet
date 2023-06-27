@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="tritonus_share.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/thh/library/MpegAudioSPI1.9.5/lib/tritonus_share.jar!/"/>
+	</lib>
+	<lib name="jl1.0.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/thh/library/MpegAudioSPI1.9.5/lib/jl1.0.1.jar!/"/>
+	</lib>
+	<lib name="mp3spi1.9.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/thh/library/MpegAudioSPI1.9.5/mp3spi1.9.5.jar!/"/>
+	</lib>
+</component>

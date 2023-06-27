@@ -1,0 +1,8 @@
+#STARTLINE
+#BG#5
+旁白：你与狼狭路相逢，你掏出了你随身携带的配枪，指向了择人而噬的猛兽。
+#OPTIONS
+#OPTION1
+#OPTION2
+#ENDOPTIONS
+#ENDLINE
